@@ -1,6 +1,6 @@
 {
   "name": "electroneum-rpc",
-  "version": "0.1.0.0",
+  "version": "0.0.1",
   "description": "Electroneum RPC API Interface in NodeJS",
   "main": "index.js",
   "scripts": {
