@@ -1,7 +1,7 @@
 {
   "name": "electroneum-rpc",
-  "version": "1.0.1",
-  "description": "TurtleCoin RPC API Interface in NodeJS",
+  "version": "0.1.0.0",
+  "description": "Electroneum RPC API Interface in NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "standard",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brandonlehmann/turtlecoin-rpc.git"
+    "url": "git+https://github.com/r00t-us3r/electroneum-rpc.git"
   },
   "keywords": [
-    "TurtleCoin",
+    "Electroneum",
     "RPC",
     "API"
   ],
-  "author": "Brandon Lehmann <brandonlehmann@gmail.com>",
+  "author": "Brandon Lehmann <npm@deancole.info>",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/brandonlehmann/turtlecoin-rpc/issues"
+    "url": "https://github.com/r00t-us3r/electroneum-rpc/issues"
   },
-  "homepage": "https://github.com/brandonlehmann/turtlecoin-rpc#readme",
+  "homepage": "https://github.com/r00t-us3r/electroneum-rpc#readme",
   "dependencies": {
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7"
