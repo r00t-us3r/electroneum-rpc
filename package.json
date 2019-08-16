@@ -1,5 +1,5 @@
 {
-  "name": "turtlecoin-rpc",
+  "name": "electroneum-rpc",
   "version": "1.0.1",
   "description": "TurtleCoin RPC API Interface in NodeJS",
   "main": "index.js",
